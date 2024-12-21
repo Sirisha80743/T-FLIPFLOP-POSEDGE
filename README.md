@@ -8,8 +8,6 @@ To implement  T flipflop using verilog and validating their functionality using 
 
 Quartus prime
 
-
-
 **T Flip-Flop**
 
 T flip-flop is the simplified version of JK flip-flop. It is obtained by connecting the same input ‘T’ to both inputs of JK flip-flop. It operates with only positive clock transitions or negative clock transitions. The circuit diagram of T flip-flop is shown in the following figure.
@@ -60,13 +58,14 @@ begin
 endmodule
 ```
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR T-FLIP FLOP**
 
 ![ex 9](https://github.com/user-attachments/assets/e2990f8e-24eb-46e5-b398-5db57e1c4a43)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR T-FLIP FLOP**
 
 ![ex 9 wave](https://github.com/user-attachments/assets/3052ef22-71fe-41d1-8d21-423ff3e5a841)
 
-**RESULTS**
+**RESULT**
+
  T flipflop using verilog and validating their functionality using their functional tables is verified.
